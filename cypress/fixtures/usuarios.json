@@ -1,0 +1,20 @@
+{
+  "usuarios": [
+    {
+      "name": "Peter Parker",
+      "email": "peterparker@email.com",
+      "password": "Senha123"
+    },
+    {
+      "name": "joão da silva junior",
+      "email": "joão@email.com",
+      "password": "Senha1234"
+    },
+    {
+      "name": "Thanos da silva",
+      "email": "thanos@email.com",
+      "password": "Senha12345"
+    }
+  ]
+}
+
